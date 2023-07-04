@@ -15,7 +15,7 @@ camera works with the help of different image processing techniques.
   Anaconda Distribution: To download click [here](https://www.anaconda.com/products/individual).
   
   Download and Extract the Project Folder Name Virtual-Mouse.<br>
-  And then Open the Virtual-Mouse Folder in VsCode as shown in Video.
+  And then Open the Virtual-Mouse-main Folder in VsCode as shown in Video.
   
   Step 1: 
   ```bash
