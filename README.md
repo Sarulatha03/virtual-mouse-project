@@ -6,7 +6,7 @@ AI Virtual Mouse Project by using OpenCV and Mediapipe.A virtual mouse is softwa
   Anaconda Distribution: To download click [here](https://www.anaconda.com/products/individual).
   
   Download and Extract the Project Folder Name Virtual-Mouse.
-  And then Open the Virtual-Mouse Folder in VsCode as shown in Video.
+  And then Open the Virtual-Mouse-main Folder in VsCode as shown in Video.
   
   Step 1: 
   ```bash
